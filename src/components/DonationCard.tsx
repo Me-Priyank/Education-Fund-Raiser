@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { DollarSign } from 'lucide-react';
 
 const amounts = [10, 25, 50, 100, 250, 500];

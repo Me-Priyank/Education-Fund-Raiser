@@ -1,4 +1,3 @@
-import React from 'react';
 import { Users, School, Globe2 } from 'lucide-react';
 
 const stats = [
